@@ -11,7 +11,13 @@
   },
   "dependencies": {
     "@nextui-org/react": "^2.4.8",
+    "@sentry/react": "^8.35.0",
+    "axios": "^1.7.7",
+    "cookie": "^1.0.1",
     "framer-motion": "^11.11.7",
+    "jose": "^5.9.4",
+    "js-cookie": "^3.0.5",
+    "jsonwebtoken": "^9.0.2",
     "next": "14.2.14",
     "react": "^18",
     "react-dom": "^18"
